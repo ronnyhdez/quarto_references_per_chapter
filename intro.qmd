@@ -1,0 +1,20 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+```{r}
+1 + 1
+```
+
+ - understanding land-atmosphere carbon exchange [@kohler_global_2018]
+ - contribution of respiration to land carbon fluxes [@anav_spatiotemporal_2015]
+
+
+\newpage
+
+## References
+
+::: {#refs}
+:::

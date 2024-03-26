@@ -1,0 +1,19 @@
+# Chapter 2
+
+In summary, this book has no content whatsoever.
+
+```{r}
+1 + 1
+```
+
+
+ - Landsat-1 [@donato_landsat_nodate]
+ - vegetation monitoring [@montero_standardized_2023]
+ - estimate biomass and photosynthetic activity [@myneni_estimation_1997]
+ 
+\newpage
+
+## References
+
+::: {#refs}
+:::

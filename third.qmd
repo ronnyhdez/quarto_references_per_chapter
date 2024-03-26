@@ -1,0 +1,13 @@
+# Another section
+
+This is just to check references
+
+ - assumptions and limitations [@reichstein_separation_2005; @jung_towards_2009]
+ 
+
+\newpage
+
+## References
+
+::: {#refs}
+:::
